@@ -1,0 +1,27 @@
+{
+  "stands": 40,
+  "released": 7,
+  "held": 24,
+  "refused": 9,
+  "release_rate": 0.175,
+  "hold_rate": 0.6,
+  "precision_when_released": 0.8571,
+  "out_of_family_stands": 10,
+  "out_of_family_released": 0,
+  "confidence_floor": 0.6,
+  "coordinator_stands_judged": 40,
+  "coordinator_faithful": 1,
+  "coordinator_fidelity": 0.025,
+  "mean_coordinator_steps": 4.0,
+  "mean_worker_steps": 9.03,
+  "tool_calls_total": 401,
+  "schema_rejections_total": 0,
+  "stands_with_a_refused_call": 0,
+  "stands_with_a_refused_call_that_went_wrong": 0,
+  "verdicts_by_reason": {
+    "HOLD:CHANNELS_DISAGREE": 22,
+    "REFUSE:OUT_OF_FAMILY": 9,
+    "RELEASE:CLEARED": 7,
+    "HOLD:BELOW_FLOOR": 2
+  }
+}

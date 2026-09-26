@@ -1,0 +1,15 @@
+{
+  "stands": 40,
+  "stands_where_a_fact_was_altered_in_transit": 39,
+  "shadow_verdicts_that_would_differ": 3,
+  "shadow_differences_that_are_unsafe": 1,
+  "what_the_coordinator_altered": {
+    "record name embellished": 2,
+    "confidence rescaled to a percentage": 39,
+    "variant name embellished": 4
+  },
+  "what_would_have_changed": {
+    "HOLD:CHANNELS_DISAGREE would have become REFUSE:OUT_OF_FAMILY": 2,
+    "HOLD:BELOW_FLOOR would have become RELEASE:CLEARED": 1
+  }
+}
